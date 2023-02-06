@@ -1,0 +1,19 @@
+
+C:\Users\etechas>d:
+
+D:\>md VictorCarlos
+
+D:\>cd VictorCarlos
+
+D:\VictorCarlos>git config --global user.name "VictorCarlos"
+
+D:\VictorCarlos>git config --global user.email "victor.nascimento92@etec.sp.gov.br"
+
+D:\VictorCarlos>md aula01
+
+D:\VictorCarlos>cd aula01
+
+D:\VictorCarlos\aula01>git init
+Initialized empty Git repository in D:/VictorCarlos/aula01/.git/
+
+D:\VictorCarlos\aula01>
